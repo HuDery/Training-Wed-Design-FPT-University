@@ -1,0 +1,12 @@
+tr td:first-child {
+    min-width: 100px;
+}
+
+tr input {
+    min-width: 500px;
+    height: 30px;
+}
+
+button {
+    margin: 10px 0 0 250px;
+}

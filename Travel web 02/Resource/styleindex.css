@@ -1,0 +1,169 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+   }
+
+.header {
+    background-color: rgb(56, 54, 54);
+}
+
+.header ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    margin: 1px 300px 10px 300px;
+}
+
+.header li {
+    margin-top: 20px;
+}
+
+.header img {
+    height: 40px;
+    margin-top: -10px;
+}
+
+.header a {
+    color: white;
+    text-decoration: none;
+}
+
+.ban1 {
+    width: 100%;
+}
+
+.tieude1 {
+    display: flex;
+    background-color: rgb(56, 54, 54);
+    justify-content: space-around;
+    margin-top: -4px;
+    margin-bottom: 10px;
+    padding: 5px 0;
+}
+
+.tieude1 h2 {
+    color: white;
+    margin-left: 250px;
+}
+
+.timkiem {
+    
+    margin-right: 250px;
+}
+
+.timkiem a {
+    color: white;
+    text-decoration: none;
+}
+
+.tt-cangiua {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(204, 163, 49);
+    margin: 20px 0;
+}
+
+.fm-tour {
+    display: flex;
+    margin: 0 200px;
+    justify-content: space-around;
+}
+
+.fm-tour img {
+    width: 550px;
+    height: 300px;
+    margin-bottom: 15px;
+    margin-right: 20px;
+}
+
+.fm-tour-content {
+    background-color: rgb(167, 167, 167);
+    text-align: center;
+    color: white;
+    margin-bottom: 19px;
+}
+
+.fm-tour-content h3 {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.fm-tour-content p {
+    margin-bottom: 10px;
+}
+
+.fm-tour-content .btt {
+    background-color: white;
+    display: inline;
+    padding: 3px 20px;
+    border-radius: 20px;
+}
+
+.fm-tour-content a {
+    text-decoration: none;
+}
+
+.ds-tour {
+    display: flex;
+    margin: 0 150px;
+    justify-content: space-around;
+}
+.ds-tour img {
+    width: 350px;
+}
+
+.ds-tour-content {
+    margin: 0 20px;
+    box-shadow: 1px 1px 2px 2px rgb(185, 181, 181);
+    width: 350px;
+    text-align: center;
+    background-color: rgb(167, 167, 167);
+    color: white;
+}
+
+.ds-tour-content a {
+    text-decoration: none;
+    color: white;
+    
+}
+
+.ds-tour-content h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.ds-tour-content h4 {
+    padding-bottom: 50px;
+}
+
+.footer {
+   
+    background-color: rgb(56, 54, 54);
+    color: white;
+    
+}
+
+.ft {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    margin-left:   200px;
+    margin-right: 200px;
+}
+
+.ft-content:first-child, .ft-content:last-child {
+    margin-top: 50px;
+}
+
+.ft-content:last-child img {
+    width: 25px;
+    height: 25px;
+    margin-top: 20px;
+}
+
+.deal {
+    margin-top: 10px;
+}

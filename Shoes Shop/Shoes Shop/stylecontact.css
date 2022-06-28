@@ -1,0 +1,9 @@
+.contact input {
+    margin-left: 1rem;
+    height: 2rem;
+    width: 20rem;
+}
+.contact button {
+    margin-left: 6rem;
+    margin-top: 5px;
+}
